@@ -1,6 +1,6 @@
 <html>
   <body>
-    <p>My first paragraph</p>
+    <p>Design Tech High School</p>
     
   </body>
 </html>
