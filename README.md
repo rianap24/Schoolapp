@@ -8,8 +8,9 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">Messages</a>
       <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite">About Us</a>
+      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/teacher-finder">Techer Contacts</a>
+      <a class="nav-item nav-link" href="#">Messaging</a>
       <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/announcements">Announcements</a>
     </div>
   </div>
