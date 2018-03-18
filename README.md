@@ -7,12 +7,12 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Home </a>
-      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite">  About Us </a>
-      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/teacher-finder">  Techer Contacts </a>
-      <a class="nav-item nav-link" href="#">  Messaging </a>
-      <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/announcements">  Announcements </a>
-      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/conflicts">  Hotline Numbers</a>
+      <a class="nav-item nav-link active" href="#">Home</a>
+      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite">About Us</a>
+      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/teacher-finder">Teacher Contacts</a>
+      <a class="nav-item nav-link" href="#">Messaging</a>
+      <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/announcements">Announcements</a>
+      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/conflicts">Hotline Numbers</a>
     </div>
   </div>
   </nav>
