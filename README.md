@@ -21,7 +21,8 @@
   </div>
   </nav>
    <img src="Untitled drawing (4) - Edited.png"/> 
-   <h1>Design Tech High School</h1>
-   <p>An app designed to bridge the gap between teachers and students and aide communication</p>
+   <h1>Our Goal</h1>
+    <p>The purpose of this site is to help students to be able to get access to materials they need in a more efficient manner.</p>
+   <p2>A website designed to bridge the gap between teachers and students and aide communication</p2>
   </body>
 </html>
