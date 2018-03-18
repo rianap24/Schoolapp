@@ -14,8 +14,8 @@
     </div>
   </div>
   </nav>
+   <img src="Untitled drawing (4).png"/> 
    <h1>Design Tech High School</h1>
    <p>An app designed to bridge the gap between teachers and students and aide communication</p>
-   <img src="Untitled drawing (4).png"/> 
   </body>
 </html>
