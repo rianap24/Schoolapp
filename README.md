@@ -14,7 +14,7 @@
     </div>
   </div>
   </nav>
-   <h1>head</h1>
-      <p>Design Tech High School</p>
+   <h1>Design Tech High School</h1>
+      <p>An app designed to bridge the gap between teachers and students and aide communication</p>
   </body>
 </html>
