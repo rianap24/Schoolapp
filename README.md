@@ -9,7 +9,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="#">Messages</a>
-      <a class="nav-item nav-link" href="#">Maps</a>
+      <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite">Maps</a>
       <a class="nav-item nav-link disabled" href="#">Tutoring</a>
     </div>
   </div>
