@@ -15,7 +15,7 @@
       <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/teacher-finder">Teacher Contacts</a>
       <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/message-board">Messaging</a>
       <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/announcements">Announcements</a>
-      <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/announcements">Grades</a>
+      <a class="nav-item nav-link disabled" href="https://favorjeremiah.wixsite.com/mysite/grades">Grades</a>
       <a class="nav-item nav-link" href="https://favorjeremiah.wixsite.com/mysite/conflicts">Hotline Numbers</a>
     </div>
   </div>
