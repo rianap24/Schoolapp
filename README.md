@@ -22,6 +22,6 @@
   </nav>
    <img src="Untitled drawing (4) - Edited.png"/> 
    <h1>Our Goal</h1>
-    <p>The purpose of this site is to help students to be able to get access to materials they need in a more efficient manner.Our website was designed to help bridge the gap between teachers and students and aide communication.</p>
+    <p>The purpose of this site is to help students to be able to get access to materials they need in a more efficient manner. Our website was designed to help bridge the gap between teachers and students and aide communication.</p>
   </body>
 </html>
