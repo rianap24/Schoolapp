@@ -1,6 +1,5 @@
 <html>
   <body>
-    <p>Design Tech High School</p>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,6 +14,7 @@
     </div>
   </div>
   </nav>
-    <h1>head</h1>
+   <h1>head</h1>
+      <p>Design Tech High School</p>
   </body>
 </html>
