@@ -1,4 +1,11 @@
 <html>
+  <head> 
+  <style> 
+    .nav-item{
+    margin-right:10px;
+    }
+    </style>
+  </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">SkoolApp</a>
